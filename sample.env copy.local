@@ -1,0 +1,16 @@
+NEXT_PUBLIC_SUPABASE_URL="replace-this-with-your-supabase-instance"
+NEXT_PUBLIC_SUPABASE_ANON_KEY="replace-this-with-your-supabasedb-anon-key"
+
+NEXT_PUBLIC_SITE_URL="http://localhost:3000"
+
+SUPER_ADMIN_EMAIL=augustehoundjago@gmail.com
+
+
+NEXT_PUBLIC_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt5aXRtbnVuenNxeWhxYmt6ZWtrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzM4MjUxODIsImV4cCI6MjA0OTQwMTE4Mn0.IVd2xYg3AteUL6SKE61EUsgkDn2kSmtKSqa2SqjrM9E"
+
+
+SUPABASE_SERVICE_ROLE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt5aXRtbnVuenNxeWhxYmt6ZWtrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczMzgyNTE4MiwiZXhwIjoyMDQ5NDAxMTgyfQ.qSZpMiDYoSD2j-J1db2D3zcikvkc4yyFUKW2qylbeSw"
+
+NEXT_PUBLIC_SUPABASE_URL="https://kyitmnunzsqyhqbkzekk.supabase.co"
+
+    

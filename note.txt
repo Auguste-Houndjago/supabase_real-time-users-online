@@ -1,0 +1,121 @@
+
+
+document 
+Mongodb couchDb , 
+
+
+
+
+db
+
+mongosh
+
+mongose --version
+
+db 
+
+show dbs 
+
+use mabase
+
+
+
+
+db.createCollection("users")
+
+show collections
+
+
+db.users.drop()
+
+
+
+db.users.insertOne({nom:"ma bite" , age : 21})
+
+
+db.users.insertMany([{
+    nom:"ma grosse bite" , age : 21
+},
+{nom: "ma super bite" , age:21}
+])
+
+db.users.find()
+
+db.users.find({age:{ $gt{:30}}})
+
+db.users.find({
+
+    age : {$gte{:21 }}
+})
+
+db.users.find({
+    $it{:21}
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objet :
+ZODB
+ObjectDB
+versan
+
+
+embedded Document
+
+referenced document 
+
+hybride methode
+
+
+
+
+Type '{ email: any; name: any; avatar_url: any; phone: any; }' is not assignable to type '(Without<UserCreateInput, UserUncheckedCreateInput> & UserUncheckedCreateInput) | (Without<...> & UserCreateInput)'.
+  Type '{ email: any; name: any; avatar_url: any; phone: any; }' is not assignable to type 'Without<UserUncheckedCreateInput, UserCreateInput> & UserCreateInput'.
+    Property 'organization' is missing in type '{ email: any; name: any; avatar_url: any; phone: any; }' but required in type 'UserCreateInput'.
+
+
+
+
+Document 
+MongoDb , CouchDb , DynamoDB 
+
+
+graph 
+Neo4j , Amazon Nepturn , ArangoDB
+
+colone 
+Cassandra DB , Hbase , Google Bigtable
+
+clee valeur 
+Redix dynamo Riak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
